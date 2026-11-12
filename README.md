@@ -1,2 +1,2 @@
 # openmohaa
-motor grafico de openmohaa para Medal o Honor: Allied Assault
+motor gráfico de openmohaa para Medal fo Honor: Allied Assault
